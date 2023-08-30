@@ -1,0 +1,26 @@
+.NavBar {
+  width: 800px;
+  height: 300px;
+  margin-top: 24px;
+  color: black;
+}
+
+.Link {
+  background-color: rgb(209, 215, 22);
+  color: black;
+  height: 40px;
+  width: 100px;
+  padding-top: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.Link:hover {
+  background-color: darkorange;
+  color: white;
+}
+
+.Links {
+  display: flex;
+  justify-content: space-around;
+}
